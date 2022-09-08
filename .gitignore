@@ -1,5 +1,6 @@
 # http://www.gnu.org/software/automake
 
+*/.DS_Store
 .DS_Store
 
 Makefile.in
